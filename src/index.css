@@ -1,0 +1,19 @@
+body {
+  background-color:lightblue;
+}
+.App{
+  background-color: #a7a695;
+  border: maroon;
+  min-height:500px;
+  width: 300px;
+  margin: 100px auto;
+  
+}
+
+.Button{
+  background-color: orange;
+  border-color: white;
+  
+
+  
+}
